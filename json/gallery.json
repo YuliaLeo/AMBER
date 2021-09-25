@@ -1,0 +1,46 @@
+{
+	"galleryItems": [
+		{
+			"url": "portfolio-item.html",
+			"image": "09.jpg",
+			"size": "280",
+			"type": "first",
+			"category": "videos"
+		},
+		{
+			"url": "portfolio-item.html",
+			"image": "08.jpg",
+			"size": "120",
+			"type": "second",
+			"category": "photos"
+		},
+		{
+			"url": "portfolio-item.html",
+			"image": "01.jpg",
+			"size": "140",
+			"type": "third",
+			"category": "games"
+		},
+		{
+			"url": "portfolio-item.html",
+			"image": "05.jpg",
+			"size": "270",
+			"type": "first",
+			"category": "apps"
+		},
+		{
+			"url": "portfolio-item.html",
+			"image": "06.jpg",
+			"size": "240",
+			"type": "second",
+			"category": "poisons"
+		},
+		{
+			"url": "portfolio-item.html",
+			"image": "07.jpg",
+			"size": "190",
+			"type": "third",
+			"category": "games"
+		}
+	]
+}
